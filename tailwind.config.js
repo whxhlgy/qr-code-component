@@ -6,6 +6,9 @@ module.exports = {
       outfit: ["Outfit, sans-serif"]
     },
     extend: {
+      colors: {
+        'bg': '#D5E1EF',
+      },
       gridTemplateRows: {
         'footer' : '1fr auto'
       }
